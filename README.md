@@ -22,6 +22,8 @@ server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue a Pull requests
+for review.
 
 ### Copyright
 
