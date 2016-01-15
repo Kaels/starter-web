@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	
+# COPYRIGHT 
+
+	High Tower Holdings 2016
